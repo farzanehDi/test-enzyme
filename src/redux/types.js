@@ -1,0 +1,5 @@
+export const reduxTypes = {
+    SUCCESS_GUESS: 'SUCCESS_GUESS',
+    GUESSED_WORDS: 'GUESSED_WORDS',
+    SECRETE_WORD: 'SECRETE_WORD',
+}
